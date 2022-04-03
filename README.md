@@ -1,6 +1,6 @@
 # trasuanamdong
 
-a boring teashop.
+a boring teashop site built on a cold Saturday.
 
 Link: https://trasuanamdong.netlify.app/
 
