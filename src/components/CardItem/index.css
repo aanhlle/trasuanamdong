@@ -1,0 +1,8 @@
+.card-price {
+    font-size: 1.25 rem;
+}
+
+hr {
+    border: 0.75px solid var(--theme-color);
+    opacity: 0.75;
+}

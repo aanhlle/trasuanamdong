@@ -1,0 +1,8 @@
+.CoolHover {
+    //box-shadow: rgb(0 0 0 / 27%) 10px 10px 33px -4px;
+    transition: transform 0.3s;
+}
+
+.CoolHover:hover {
+    transform: scale(1.05);
+}

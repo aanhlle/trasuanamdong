@@ -1,0 +1,26 @@
+h4 {
+    font-size: calc(1rem + 0.5vw);
+}
+
+.sidebar {
+    width: 25%;
+    max-width: 15rem;
+    background-color: var(--sidebar-bg-color);
+}
+
+.sidebar ul button {
+    font-size: calc(0.75rem + 0.5vw);
+    color: var(--sidebar-font-color);
+    background-color: var(--sidebar-bg-color);
+    border: none;
+    margin: 1rem auto;
+    width: 90%;
+    padding: 10px 0;
+}
+
+.sidebar ul button:hover,
+#sidebar-selected {
+    color: white;
+    background-color: var(--sidebar-select-color);
+    border-radius: 5px;
+}
