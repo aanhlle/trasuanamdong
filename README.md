@@ -2,6 +2,8 @@
 
 a boring teashop.
 
+Link: https://trasuanamdong.netlify.app/
+
 ## What has been done?
 
 ✅ Tame the data
